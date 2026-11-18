@@ -1,0 +1,3 @@
+-- No personal profiles or fabricated match data are seeded.
+-- For local development, create accounts through Supabase Auth and complete
+-- onboarding in the application. Admin roles are assigned explicitly in README.

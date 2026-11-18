@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(520 300 -480 830 800 240)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173d25"/>
+      <stop offset="1" stop-color="#080A09"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="140" x2="1050" y1="182" y2="511" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39FF88"/>
+      <stop offset="1" stop-color="#FF2E93"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#glow)" d="M0 0h1200v630H0z"/>
+  <circle cx="973" cy="185" r="154" stroke="#39FF88" stroke-opacity=".12"/>
+  <circle cx="973" cy="185" r="200" stroke="#FF2E93" stroke-opacity=".1"/>
+  <rect x="104" y="134" width="48" height="48" rx="14" fill="#39FF88"/>
+  <text x="114" y="170" fill="#07120A" font-family="Arial,sans-serif" font-size="35" font-weight="700">r</text>
+  <text x="166" y="170" fill="#F3F5F2" font-family="Arial,sans-serif" font-size="33" font-weight="700" letter-spacing="-2">roomie<tspan fill="#39FF88">.</tspan></text>
+  <text x="100" y="328" fill="#F3F5F2" font-family="Arial,sans-serif" font-size="67" font-weight="600" letter-spacing="-3">Find your kind of home.</text>
+  <text x="104" y="390" fill="#A5AEA7" font-family="Arial,sans-serif" font-size="23">Thoughtful flatmate matching. Real people. Better living together.</text>
+  <path d="M103 468h92m0 0 14-14m-14 14 14 14" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="104" y="531" fill="#39FF88" font-family="Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">ROOMIE — A BETTER FLATSHARE STARTS HERE</text>
+</svg>
